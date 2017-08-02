@@ -14,7 +14,7 @@ import time
 import queue
 
 id_list=queue.Queue(50000)
-
+id_list_find_friend=queue.Queue(50000)
 lock=threading.Lock()
 
 # aquire the arguments---Target City
@@ -45,20 +45,43 @@ def FileSave(content):
             db.insert(content)
         finally:
             lock.release()
-
 ####################################################
 
-def count():
-    global N
-    N=N+1
-    print(N)
+# def count():
+#     global N
+#     N=N+1
+#     print(N)
+
+
+
+def generate_friends():
+    user_id=id_list_find_friend.get()
+    api2 = TwitterAPI(consumer_key=Auth[token_number]['consumer_key'],
+                     consumer_secret=Auth[token_number]['consumer_secret'],
+                     access_token_key=Auth[token_number]['access_token_key'],
+                     access_token_secret=Auth[token_number]['access_token_secret'],
+                     auth_type='oAuth1')
+    cursor=-1
+    # while 1:
+    r = api2.request('friends/list', {"user_id": user_id, 'count': 200, 'cursor':cursor})
+
+    for each in r.get_iterator():
+            # print(each)
+            # if 'next_cursor_str' in each:
+            #     cursor=each['next_cursor_str']
+            # else:
+            #     cursor=0
+            # if 'users' in each:
+            #     for each_user in each:
+            id_list.put(each['id_str'])
+    print('Now queue size is %d' % id_list.qsize())
 
 
 def search_user():
-
-    while 1:
+    keepdoing= True
+    while keepdoing:
         lock.acquire()
-        count()
+        # count()
         lock.release()
         try:
             lock.acquire()
@@ -70,15 +93,23 @@ def search_user():
                              access_token_key=Auth[token_number]['access_token_key'],
                              access_token_secret=Auth[token_number]['access_token_secret'],
                              auth_type='oAuth2')
-            r = api.request('statuses/user_timeline', {"user_id": user_id, 'count': 200})
+            r = api.request('statuses/user_timeline', {"user_id": user_id, 'count': 200,'exclude_replies':'true'})
+            print(1)
             for each in r.get_iterator():
                 if 'text' in each:
-                    print('doing users')
-                    # FileSave(each)
+                    # print('doing users')
+                    FileSave(each)
+            print('Now queue size is %d' % id_list.qsize())
+
+            id_list_find_friend.put(user_id)
+            if id_list.qsize()<20:
+
+                generate_friends()
+
 
         except TwitterRequestError as e:
             if e.status_code < 500:
-                print(e.status_code)
+                print(e)
                 print('TwitterRequestError')
                 # something needs to be fixed before re-connecting
                 raise
@@ -176,10 +207,13 @@ def Searching():
 
 if __name__=="__main__":
     # twitter_log('System Start, Gathering '+args['city']+' Using Auth '+args['tokens'])
-    threading.Thread(target=Streaming,name="Streaming").start()
-    threading.Thread(target=Searching,name="Searching tweet").start()
-    time.sleep(10)
+    # threading.Thread(target=Streaming,name="Streaming").start()
+    # threading.Thread(target=Searching,name="Searching tweet").start()
+    # time.sleep(10)
     print('start search based on user_id')
+    id_list.put('2949520286')
+    id_list.put('208056970')
+    search_user()
     # threading.Thread(target=search_user,name="searching based on users").start()
     # threading.Thread(target=search_user,name="searching based on users 2").start()
 
