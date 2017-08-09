@@ -1,0 +1,39 @@
+[2017-08-09 23:43:23.004479]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "25365536" }
+25365536
+[2017-08-09 23:43:23.243568]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "247129840" }
+247129840
+[2017-08-09 23:43:23.526881]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "393222141" }
+393222141
+[2017-08-09 23:43:24.051495]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "31604067" }
+31604067
+[2017-08-09 23:43:41.756764]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1339835893" }
+1339835893
+[2017-08-09 23:43:41.920846]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "23375688" }
+23375688
+[2017-08-09 23:43:42.093295]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "32201814" }
+32201814
+[2017-08-09 23:43:42.623188]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "25365536" }
+25365536
+[2017-08-09 23:43:43.395863]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "25073877" }
+25073877
+[2017-08-09 23:43:58.631421]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "16216152" }
+16216152
+[2017-08-09 23:43:58.839446]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "215952307" }
+215952307
+[2017-08-09 23:44:00.372276]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1069172641" }
+1069172641
+[2017-08-09 23:44:21.958182]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "155881800" }
+155881800

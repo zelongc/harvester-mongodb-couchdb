@@ -45,7 +45,6 @@ def FileSave(content):
             db.insert(content)
         finally:
             lock.release()
-
 ####################################################
 
 def count():
