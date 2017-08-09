@@ -57,7 +57,7 @@ def harvest_friends():
         print(each_user_info)
         FileSave(each_user_info)
 
-    time.sleep(5)
+    time.sleep(15)
 
 
 
