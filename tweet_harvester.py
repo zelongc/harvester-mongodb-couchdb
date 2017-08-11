@@ -33,7 +33,6 @@ def FileSave(content):
         content['_id'] = content['id_str']
         db_client.insert_new_tweet(content)
 
-
 def search_user():
     keepdoing = True
     while keepdoing:

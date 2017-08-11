@@ -1,5 +1,5 @@
-#_*
-#.idea
-#.idea/
-#.DS_Store
-#Q*.out
+_*
+.idea
+.idea/
+.DS_Store
+*.out
