@@ -2,13 +2,12 @@
 
 # author: Zelong Cong
 import argparse
-import threading
 import time
+
 from TwitterAPI.TwitterError import TwitterConnectionError, TwitterRequestError
-from mongodb_harvester import connect_mongo
+
+import connect_mongo
 from support import *
-
-
 
 ap = argparse.ArgumentParser()
 ap.add_argument("-t", "--tokens", required=True, help="The access tokens")

@@ -3,11 +3,13 @@
 # author: Zelong Cong
 
 
-from TwitterAPI.TwitterError import TwitterConnectionError, TwitterRequestError
-from support import *
 import argparse
 import time
-from mongodb_harvester import connect_mongo
+
+from TwitterAPI.TwitterError import TwitterConnectionError, TwitterRequestError
+
+import connect_mongo
+from support import *
 
 # aquire the arguments---Target City
 ap = argparse.ArgumentParser()
