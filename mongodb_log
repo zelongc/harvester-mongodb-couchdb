@@ -1,0 +1,1518 @@
+[2017-08-11 11:33:01.537513]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "606839074" }
+606839074
+[2017-08-11 11:33:01.563613]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "555584764" }
+555584764
+[2017-08-11 11:33:01.581188]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "870548912553078784" }
+870548912553078784
+[2017-08-11 11:33:01.599583]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "14556874" }
+14556874
+[2017-08-11 11:33:01.617295]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "25664846" }
+25664846
+[2017-08-11 11:33:06.410004]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "17408007" }
+17408007
+[2017-08-11 11:33:06.428036]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "57331749" }
+57331749
+[2017-08-11 11:33:06.445363]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "23279225" }
+23279225
+[2017-08-11 11:33:06.462880]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3065746754" }
+3065746754
+[2017-08-11 11:33:06.480844]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "773808451" }
+773808451
+[2017-08-11 11:33:06.498141]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "239591188" }
+239591188
+[2017-08-11 11:33:06.515799]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "61492858" }
+61492858
+[2017-08-11 11:33:06.533946]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "347641397" }
+347641397
+[2017-08-11 11:33:06.551207]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "23301835" }
+23301835
+[2017-08-11 11:34:19.336067]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "606839074" }
+606839074
+[2017-08-11 11:34:19.354136]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "555584764" }
+555584764
+[2017-08-11 11:34:19.372815]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "870548912553078784" }
+870548912553078784
+[2017-08-11 11:34:19.390617]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "14556874" }
+14556874
+[2017-08-11 11:34:19.408713]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "25664846" }
+25664846
+[2017-08-11 11:34:24.271308]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "17408007" }
+17408007
+[2017-08-11 11:34:24.298664]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "57331749" }
+57331749
+[2017-08-11 11:34:24.316938]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "23279225" }
+23279225
+[2017-08-11 11:34:24.334938]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3065746754" }
+3065746754
+[2017-08-11 11:34:24.355710]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "773808451" }
+773808451
+[2017-08-11 11:34:24.375324]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "239591188" }
+239591188
+[2017-08-11 11:34:24.392852]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "61492858" }
+61492858
+[2017-08-11 11:34:24.410970]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "347641397" }
+347641397
+[2017-08-11 11:34:24.428948]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "23301835" }
+23301835
+[2017-08-11 11:34:29.356224]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2152509757" }
+2152509757
+[2017-08-11 11:34:29.382225]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2878155746" }
+2878155746
+[2017-08-11 11:34:29.400710]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "33473528" }
+33473528
+[2017-08-11 11:34:29.423961]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "123288025" }
+123288025
+[2017-08-11 11:34:29.443009]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets2.$_id_  dup key: { : "893790121643913216" }
+893790121643913216
+[2017-08-11 11:34:29.468201]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "27572392" }
+27572392
+[2017-08-11 11:34:29.486036]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "4102963698" }
+4102963698
+[2017-08-11 11:34:29.504112]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "708568009674129409" }
+708568009674129409
+[2017-08-11 11:34:29.522279]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "37612471" }
+37612471
+[2017-08-11 11:34:29.540221]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "37813994" }
+37813994
+[2017-08-11 11:34:34.228470]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "546344823" }
+546344823
+[2017-08-11 11:34:34.246292]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "280949386" }
+280949386
+[2017-08-11 11:34:34.264784]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "767670972304326656" }
+767670972304326656
+[2017-08-11 11:34:34.282648]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "18534908" }
+18534908
+[2017-08-11 11:34:34.300482]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "1184976463" }
+1184976463
+[2017-08-11 11:34:34.319591]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "499696436" }
+499696436
+[2017-08-11 11:37:22.938010]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "606839074" }
+606839074
+[2017-08-11 11:37:22.966487]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "555584764" }
+555584764
+[2017-08-11 11:37:22.985028]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "870548912553078784" }
+870548912553078784
+[2017-08-11 11:37:23.003634]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "14556874" }
+14556874
+[2017-08-11 11:37:23.023186]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "25664846" }
+25664846
+[2017-08-11 11:37:27.863229]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "17408007" }
+17408007
+[2017-08-11 11:37:27.882029]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "57331749" }
+57331749
+[2017-08-11 11:37:27.913367]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "23279225" }
+23279225
+[2017-08-11 11:37:27.930677]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3065746754" }
+3065746754
+[2017-08-11 11:37:27.948123]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "773808451" }
+773808451
+[2017-08-11 11:37:27.965908]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "239591188" }
+239591188
+[2017-08-11 11:37:27.991526]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "61492858" }
+61492858
+[2017-08-11 11:37:28.009131]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "347641397" }
+347641397
+[2017-08-11 11:37:28.026917]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "23301835" }
+23301835
+[2017-08-11 11:37:32.864614]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2152509757" }
+2152509757
+[2017-08-11 11:37:32.900124]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2878155746" }
+2878155746
+[2017-08-11 11:37:32.924358]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "33473528" }
+33473528
+[2017-08-11 11:37:32.956480]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "123288025" }
+123288025
+[2017-08-11 11:37:32.976903]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets2.$_id_  dup key: { : "893790121643913216" }
+893790121643913216
+[2017-08-11 11:37:33.008791]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "27572392" }
+27572392
+[2017-08-11 11:37:33.044293]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "4102963698" }
+4102963698
+[2017-08-11 11:37:33.097844]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "708568009674129409" }
+708568009674129409
+[2017-08-11 11:37:33.116128]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "37612471" }
+37612471
+[2017-08-11 11:37:33.138470]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "37813994" }
+37813994
+[2017-08-11 11:37:37.709469]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "546344823" }
+546344823
+[2017-08-11 11:37:37.727227]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "280949386" }
+280949386
+[2017-08-11 11:37:37.745154]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "767670972304326656" }
+767670972304326656
+[2017-08-11 11:37:37.762724]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "18534908" }
+18534908
+[2017-08-11 11:37:37.781367]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "1184976463" }
+1184976463
+[2017-08-11 11:37:37.799620]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "499696436" }
+499696436
+[2017-08-11 11:38:08.547031]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "858899629005447168" }
+858899629005447168
+[2017-08-11 11:39:23.840853]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "606839074" }
+606839074
+[2017-08-11 11:39:23.859574]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "555584764" }
+555584764
+[2017-08-11 11:39:23.879176]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "870548912553078784" }
+870548912553078784
+[2017-08-11 11:39:23.897462]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "14556874" }
+14556874
+[2017-08-11 11:39:23.915282]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "25664846" }
+25664846
+[2017-08-11 11:39:27.832870]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "17408007" }
+17408007
+[2017-08-11 11:39:27.852452]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "57331749" }
+57331749
+[2017-08-11 11:39:27.871741]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "23279225" }
+23279225
+[2017-08-11 11:39:27.894870]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3065746754" }
+3065746754
+[2017-08-11 11:39:27.913413]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "773808451" }
+773808451
+[2017-08-11 11:39:27.931703]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "239591188" }
+239591188
+[2017-08-11 11:39:27.950199]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "61492858" }
+61492858
+[2017-08-11 11:39:27.968297]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "347641397" }
+347641397
+[2017-08-11 11:39:27.985966]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "23301835" }
+23301835
+[2017-08-11 11:39:32.759391]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2152509757" }
+2152509757
+[2017-08-11 11:39:32.785823]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2878155746" }
+2878155746
+[2017-08-11 11:39:32.807541]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "33473528" }
+33473528
+[2017-08-11 11:39:32.826636]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "123288025" }
+123288025
+[2017-08-11 11:39:32.846802]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets2.$_id_  dup key: { : "893790121643913216" }
+893790121643913216
+[2017-08-11 11:39:32.867136]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "27572392" }
+27572392
+[2017-08-11 11:39:32.890481]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "4102963698" }
+4102963698
+[2017-08-11 11:39:32.907821]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "708568009674129409" }
+708568009674129409
+[2017-08-11 11:39:32.926172]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "37612471" }
+37612471
+[2017-08-11 11:39:32.949328]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "37813994" }
+37813994
+[2017-08-11 11:39:37.801082]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "546344823" }
+546344823
+[2017-08-11 11:39:37.943557]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "280949386" }
+280949386
+[2017-08-11 11:39:37.970969]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "767670972304326656" }
+767670972304326656
+[2017-08-11 11:39:37.989518]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "18534908" }
+18534908
+[2017-08-11 11:39:38.007983]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "1184976463" }
+1184976463
+[2017-08-11 11:39:38.028378]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "499696436" }
+499696436
+[2017-08-11 11:39:43.073516]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "60529347" }
+60529347
+[2017-08-11 11:39:43.103421]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "58747652" }
+58747652
+[2017-08-11 11:39:43.139730]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "191498891" }
+191498891
+[2017-08-11 11:39:43.164426]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "728242112123174914" }
+728242112123174914
+[2017-08-11 11:39:43.187991]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "382521248" }
+382521248
+[2017-08-11 11:39:43.210337]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2241659588" }
+2241659588
+[2017-08-11 11:39:47.802655]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "796119338" }
+796119338
+[2017-08-11 11:39:47.829206]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "180122238" }
+180122238
+[2017-08-11 11:39:53.333387]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "809650903800156160" }
+809650903800156160
+[2017-08-11 11:39:53.361848]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2916070964" }
+2916070964
+[2017-08-11 11:39:53.380052]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "53058448" }
+53058448
+[2017-08-11 11:39:53.401492]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "53936434" }
+53936434
+[2017-08-11 11:39:53.421038]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "773065015519682560" }
+773065015519682560
+[2017-08-11 11:39:58.373038]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3393016307" }
+3393016307
+[2017-08-11 11:39:58.399345]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "815412119298457600" }
+815412119298457600
+[2017-08-11 11:39:58.421300]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "554072028" }
+554072028
+[2017-08-11 11:39:58.451189]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "73279725" }
+73279725
+[2017-08-11 11:39:58.471898]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "881824975" }
+881824975
+[2017-08-11 11:39:58.490934]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "15420301" }
+15420301
+[2017-08-11 11:39:58.509817]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "858899629005447168" }
+858899629005447168
+[2017-08-11 11:39:58.528373]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3435480864" }
+3435480864
+[2017-08-11 11:39:58.548459]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "10960812" }
+10960812
+[2017-08-11 11:40:03.927951]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "15304212" }
+15304212
+[2017-08-11 11:40:03.947251]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "17934129" }
+17934129
+[2017-08-11 11:40:03.965590]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3152311262" }
+3152311262
+[2017-08-11 11:40:03.984725]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3194289097" }
+3194289097
+[2017-08-11 11:40:04.003554]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "47911172" }
+47911172
+[2017-08-11 11:40:04.022072]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "1955375796" }
+1955375796
+[2017-08-11 11:40:04.040373]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "77208226" }
+77208226
+[2017-08-11 11:40:04.058569]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "15902371" }
+15902371
+[2017-08-11 11:40:04.077149]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "770132773965328385" }
+770132773965328385
+[2017-08-11 11:40:08.166924]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "88176502" }
+88176502
+[2017-08-11 11:40:08.194620]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.tweets2.$_id_  dup key: { : "893102892424601606" }
+893102892424601606
+[2017-08-11 11:40:08.218756]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "858899629005447168" }
+858899629005447168
+[2017-08-11 11:40:08.243142]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "398322104" }
+398322104
+[2017-08-11 11:40:13.120285]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "19074364" }
+19074364
+[2017-08-11 11:40:18.942762]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "220679611" }
+220679611
+[2017-08-11 11:40:18.960325]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "329044159" }
+329044159
+[2017-08-11 11:40:18.979992]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "197192658" }
+197192658
+[2017-08-11 11:40:18.998721]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "171401650" }
+171401650
+[2017-08-11 11:40:24.380461]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "401230937" }
+401230937
+[2017-08-11 11:40:24.406813]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "1966064911" }
+1966064911
+[2017-08-11 11:40:24.425614]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2943404336" }
+2943404336
+[2017-08-11 11:40:24.443887]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3253393370" }
+3253393370
+[2017-08-11 11:40:24.461469]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "1090909765" }
+1090909765
+[2017-08-11 11:40:24.480047]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "785783473747349504" }
+785783473747349504
+[2017-08-11 11:40:24.498485]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "29660021" }
+29660021
+[2017-08-11 11:40:24.517319]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "739744486238998528" }
+739744486238998528
+[2017-08-11 11:40:29.634799]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "725524123410026497" }
+725524123410026497
+[2017-08-11 11:40:29.654476]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "2349963877" }
+2349963877
+[2017-08-11 11:40:29.674608]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "179064338" }
+179064338
+[2017-08-11 11:40:29.699862]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "185953237" }
+185953237
+[2017-08-11 11:54:16.749863]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "40185642" }
+40185642
+[2017-08-11 11:58:54.369126]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 11:59:49.276950]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "105799553" }
+105799553
+[2017-08-11 12:00:16.159084]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "105799553" }
+105799553
+[2017-08-11 12:02:40.838250]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "124648769" }
+124648769
+[2017-08-11 12:04:31.819404]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "35964781" }
+35964781
+[2017-08-11 12:11:01.881616]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 12:12:12.676270]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "266505115" }
+266505115
+[2017-08-11 12:17:29.986512]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 12:23:24.176772]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "123791748" }
+123791748
+[2017-08-11 12:29:36.749866]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "57018668" }
+57018668
+[2017-08-11 12:30:06.513851]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 12:31:11.371815]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 12:31:15.137236]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "306052324" }
+306052324
+[2017-08-11 12:34:53.670686]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 12:40:15.549426]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3014277859" }
+3014277859
+[2017-08-11 12:40:23.799373]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3014277859" }
+3014277859
+[2017-08-11 12:40:42.182645]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3014277859" }
+3014277859
+[2017-08-11 12:40:52.721298]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3014277859" }
+3014277859
+[2017-08-11 12:49:33.207976]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 12:58:11.299870]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 13:00:37.297851]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "3027131541" }
+3027131541
+[2017-08-11 13:01:41.415443]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "211362581" }
+211362581
+[2017-08-11 13:07:22.661094]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "40814404" }
+40814404
+[2017-08-11 13:09:23.705445]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "40645997" }
+40645997
+[2017-08-11 13:10:05.693932]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "35664955" }
+35664955
+[2017-08-11 13:10:47.008832]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "35624175" }
+35624175
+[2017-08-11 13:14:10.418978]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "36039738" }
+36039738
+[2017-08-11 13:15:56.747341]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "40814404" }
+40814404
+[2017-08-11 13:20:38.129188]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 13:22:51.358061]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "37652556" }
+37652556
+[2017-08-11 13:27:22.562041]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "30213898" }
+30213898
+[2017-08-11 13:29:52.439637]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 13:34:14.292321]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 13:34:15.024413]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 13:36:31.063896]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "13848772" }
+13848772
+[2017-08-11 13:38:08.913412]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 13:39:25.966971]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "233045956" }
+233045956
+[2017-08-11 13:39:47.483246]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "123791748" }
+123791748
+[2017-08-11 13:46:46.742855]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "24490494" }
+24490494
+[2017-08-11 13:47:18.494262]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "35495795" }
+35495795
+[2017-08-11 13:49:20.469948]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "123791748" }
+123791748
+[2017-08-11 13:49:25.929583]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "260820588" }
+260820588
+[2017-08-11 13:52:22.022440]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "18329747" }
+18329747
+[2017-08-11 13:53:24.110980]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 13:57:09.258053]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "123791748" }
+123791748
+[2017-08-11 13:57:45.168729]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1279126164" }
+1279126164
+[2017-08-11 13:57:45.202098]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "856621378354561024" }
+856621378354561024
+[2017-08-11 13:57:45.240999]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "805065880904175616" }
+805065880904175616
+[2017-08-11 13:57:45.291900]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "701886762575077380" }
+701886762575077380
+[2017-08-11 13:57:45.326466]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "245034522" }
+245034522
+[2017-08-11 13:57:45.355091]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "27807166" }
+27807166
+[2017-08-11 13:57:45.389912]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2644697608" }
+2644697608
+[2017-08-11 13:57:45.410556]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "20306808" }
+20306808
+[2017-08-11 13:57:45.449207]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "464315180" }
+464315180
+[2017-08-11 13:57:45.469617]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2804920328" }
+2804920328
+[2017-08-11 13:57:45.513803]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2939963358" }
+2939963358
+[2017-08-11 13:57:45.533100]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4164976040" }
+4164976040
+[2017-08-11 13:57:45.555488]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3126961677" }
+3126961677
+[2017-08-11 13:57:45.592308]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "343576095" }
+343576095
+[2017-08-11 13:57:45.613299]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4913738792" }
+4913738792
+[2017-08-11 13:57:45.653403]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2582637362" }
+2582637362
+[2017-08-11 13:57:45.738423]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3406017064" }
+3406017064
+[2017-08-11 13:57:45.762874]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2379215695" }
+2379215695
+[2017-08-11 13:57:45.825005]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4696615435" }
+4696615435
+[2017-08-11 13:57:45.914928]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1049946295" }
+1049946295
+[2017-08-11 13:57:45.941427]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2299909176" }
+2299909176
+[2017-08-11 13:57:45.964700]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "118543545" }
+118543545
+[2017-08-11 13:57:46.005702]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4923921507" }
+4923921507
+[2017-08-11 13:57:46.096308]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "311862890" }
+311862890
+[2017-08-11 13:57:46.118611]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1330625646" }
+1330625646
+[2017-08-11 13:57:46.191392]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "499517910" }
+499517910
+[2017-08-11 13:57:46.261938]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2942706361" }
+2942706361
+[2017-08-11 13:57:46.280512]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "588782112" }
+588782112
+[2017-08-11 13:57:46.301180]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "296668120" }
+296668120
+[2017-08-11 13:57:46.322690]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "60186661" }
+60186661
+[2017-08-11 13:57:46.359890]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "23087513" }
+23087513
+[2017-08-11 13:57:46.378956]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "707674704979431424" }
+707674704979431424
+[2017-08-11 13:57:46.398842]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "532242664" }
+532242664
+[2017-08-11 13:57:46.434084]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2467843250" }
+2467843250
+[2017-08-11 13:57:46.595646]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2574908766" }
+2574908766
+[2017-08-11 13:57:46.630685]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "780804311529906176" }
+780804311529906176
+[2017-08-11 13:57:46.830067]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "39157744" }
+39157744
+[2017-08-11 13:57:46.885227]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "101823594" }
+101823594
+[2017-08-11 13:57:46.966329]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "14589511" }
+14589511
+[2017-08-11 13:57:47.018429]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1569024350" }
+1569024350
+[2017-08-11 13:57:47.055708]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1424721133" }
+1424721133
+[2017-08-11 13:57:51.515311]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "571202103" }
+571202103
+[2017-08-11 13:57:51.550073]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "15736190" }
+15736190
+[2017-08-11 13:57:52.964671]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "27631636" }
+27631636
+[2017-08-11 13:58:23.612814]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1655398482" }
+1655398482
+[2017-08-11 13:58:23.786448]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1372855105" }
+1372855105
+[2017-08-11 13:58:23.807258]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "31957731" }
+31957731
+[2017-08-11 13:58:23.826048]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "972651" }
+972651
+[2017-08-11 13:58:24.056761]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "365413301" }
+365413301
+[2017-08-11 13:58:24.096397]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1305940272" }
+1305940272
+[2017-08-11 13:58:24.164234]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "15531582" }
+15531582
+[2017-08-11 13:58:24.229461]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "94513741" }
+94513741
+[2017-08-11 13:58:24.250123]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "146579141" }
+146579141
+[2017-08-11 13:58:24.344341]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "74654261" }
+74654261
+[2017-08-11 13:58:24.508489]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "576442933" }
+576442933
+[2017-08-11 13:58:25.000122]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "11167502" }
+11167502
+[2017-08-11 13:58:25.018355]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "36803580" }
+36803580
+[2017-08-11 13:58:25.431841]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "15128731" }
+15128731
+[2017-08-11 13:58:25.764978]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "58914504" }
+58914504
+[2017-08-11 13:58:26.059058]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1372853004" }
+1372853004
+[2017-08-11 13:58:26.360179]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "481598648" }
+481598648
+[2017-08-11 13:58:26.385278]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "47797211" }
+47797211
+[2017-08-11 13:58:26.409860]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "77113713" }
+77113713
+[2017-08-11 13:58:26.430879]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "23822236" }
+23822236
+[2017-08-11 13:58:26.450058]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "115584650" }
+115584650
+[2017-08-11 13:58:26.475399]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "63786611" }
+63786611
+[2017-08-11 13:58:26.496423]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "65525881" }
+65525881
+[2017-08-11 13:58:26.597999]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1347756012" }
+1347756012
+[2017-08-11 13:58:51.653859]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "143845788" }
+143845788
+[2017-08-11 13:58:52.065993]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "718052330172784640" }
+718052330172784640
+[2017-08-11 13:58:53.502574]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1028204630" }
+1028204630
+[2017-08-11 13:58:54.080493]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2384233458" }
+2384233458
+[2017-08-11 13:58:54.181877]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "142786828" }
+142786828
+[2017-08-11 13:58:54.366146]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1967329470" }
+1967329470
+[2017-08-11 13:58:55.303587]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "586032653" }
+586032653
+[2017-08-11 13:59:23.351327]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "111010542" }
+111010542
+[2017-08-11 13:59:23.528498]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "313236099" }
+313236099
+[2017-08-11 13:59:53.815297]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "498340611" }
+498340611
+[2017-08-11 13:59:54.107471]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2584075007" }
+2584075007
+[2017-08-11 13:59:54.211936]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2817078086" }
+2817078086
+[2017-08-11 13:59:54.701298]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "270516844" }
+270516844
+[2017-08-11 13:59:55.035442]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "33475281" }
+33475281
+[2017-08-11 14:00:16.581875]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "79080082" }
+79080082
+[2017-08-11 14:00:21.669068]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "285003755" }
+285003755
+[2017-08-11 14:00:22.682419]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "369615486" }
+369615486
+[2017-08-11 14:00:23.066285]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "219361292" }
+219361292
+[2017-08-11 14:00:23.132187]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2351458225" }
+2351458225
+[2017-08-11 14:00:23.890058]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "280511274" }
+280511274
+[2017-08-11 14:00:24.485301]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "188064359" }
+188064359
+[2017-08-11 14:00:24.662880]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2826294571" }
+2826294571
+[2017-08-11 14:00:24.895231]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "59159541" }
+59159541
+[2017-08-11 14:00:24.931111]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "138737030" }
+138737030
+[2017-08-11 14:00:25.305307]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "14230389" }
+14230389
+[2017-08-11 14:00:25.459350]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "140378966" }
+140378966
+[2017-08-11 14:00:25.596508]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "556042591" }
+556042591
+[2017-08-11 14:00:51.959621]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "14607007" }
+14607007
+[2017-08-11 14:00:52.187570]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "45561740" }
+45561740
+[2017-08-11 14:00:52.260829]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "319149451" }
+319149451
+[2017-08-11 14:00:52.282964]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "212527754" }
+212527754
+[2017-08-11 14:00:52.349968]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "182613847" }
+182613847
+[2017-08-11 14:00:52.488150]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "56817634" }
+56817634
+[2017-08-11 14:00:52.538724]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "513353031" }
+513353031
+[2017-08-11 14:00:52.606444]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1426296434" }
+1426296434
+[2017-08-11 14:00:52.827541]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "613519715" }
+613519715
+[2017-08-11 14:00:52.901573]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "164081884" }
+164081884
+[2017-08-11 14:00:53.184369]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "187131273" }
+187131273
+[2017-08-11 14:00:53.236997]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "27620472" }
+27620472
+[2017-08-11 14:00:53.426575]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "28590292" }
+28590292
+[2017-08-11 14:00:53.447371]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "224634229" }
+224634229
+[2017-08-11 14:00:53.468798]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "334999986" }
+334999986
+[2017-08-11 14:00:53.585973]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "158689987" }
+158689987
+[2017-08-11 14:00:53.688433]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "285148543" }
+285148543
+[2017-08-11 14:00:57.623040]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "19667580" }
+19667580
+[2017-08-11 14:00:57.651652]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "813286" }
+813286
+[2017-08-11 14:00:57.693686]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "216776631" }
+216776631
+[2017-08-11 14:00:57.749326]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "755113" }
+755113
+[2017-08-11 14:00:57.818974]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "386056280" }
+386056280
+[2017-08-11 14:00:57.873045]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "45323315" }
+45323315
+[2017-08-11 14:00:57.924487]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "139823781" }
+139823781
+[2017-08-11 14:00:58.086610]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "481440623" }
+481440623
+[2017-08-11 14:00:58.115469]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "212465862" }
+212465862
+[2017-08-11 14:00:58.156223]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "249481149" }
+249481149
+[2017-08-11 14:00:58.240920]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "22594347" }
+22594347
+[2017-08-11 14:00:58.368943]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1135588334" }
+1135588334
+[2017-08-11 14:00:58.392507]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "75082770" }
+75082770
+[2017-08-11 14:00:58.412522]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "290631611" }
+290631611
+[2017-08-11 14:00:58.614882]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "180505807" }
+180505807
+[2017-08-11 14:00:58.674844]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1156972712" }
+1156972712
+[2017-08-11 14:00:59.022518]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "261398091" }
+261398091
+[2017-08-11 14:00:59.131273]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "16353467" }
+16353467
+[2017-08-11 14:00:59.158857]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "515886195" }
+515886195
+[2017-08-11 14:00:59.198753]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "80165239" }
+80165239
+[2017-08-11 14:00:59.253220]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1096380606" }
+1096380606
+[2017-08-11 14:00:59.273099]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "701640068" }
+701640068
+[2017-08-11 14:00:59.463243]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "37684182" }
+37684182
+[2017-08-11 14:00:59.483628]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "27301086" }
+27301086
+[2017-08-11 14:00:59.503154]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1238259895" }
+1238259895
+[2017-08-11 14:00:59.572276]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2372180520" }
+2372180520
+[2017-08-11 14:00:59.595769]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1532862722" }
+1532862722
+[2017-08-11 14:00:59.680725]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "53184267" }
+53184267
+[2017-08-11 14:01:34.475558]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "102231458" }
+102231458
+[2017-08-11 14:02:23.753477]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 14:02:54.983791]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "391292096" }
+391292096
+[2017-08-11 14:03:40.312893]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "42248758" }
+42248758
+[2017-08-11 14:04:17.184087]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "555869004" }
+555869004
+[2017-08-11 14:05:05.648116]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "555869004" }
+555869004
+[2017-08-11 14:05:56.541039]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "555869004" }
+555869004
+[2017-08-11 14:05:57.560001]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "21163853" }
+21163853
+[2017-08-11 14:06:07.282740]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "555869004" }
+555869004
+[2017-08-11 14:13:04.724683]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 14:16:34.961666]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 14:16:35.448698]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 14:16:35.736064]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "208056970" }
+208056970
+[2017-08-11 14:16:35.951243]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 14:16:36.254704]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "208056970" }
+208056970
+[2017-08-11 14:16:36.721256]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 14:16:36.892355]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "208056970" }
+208056970
+[2017-08-11 14:16:37.450663]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 14:16:37.878779]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 14:18:19.832682]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "843085997483077632" }
+843085997483077632
+[2017-08-11 14:18:19.898381]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "840916646642479105" }
+840916646642479105
+[2017-08-11 14:18:19.956619]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "844474051611574272" }
+844474051611574272
+[2017-08-11 14:18:20.226584]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "836862778614951938" }
+836862778614951938
+[2017-08-11 14:18:20.371532]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4420830434" }
+4420830434
+[2017-08-11 14:18:20.867130]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2203539932" }
+2203539932
+[2017-08-11 14:18:21.316636]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "274838627" }
+274838627
+[2017-08-11 14:18:21.569608]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "787677756075175936" }
+787677756075175936
+[2017-08-11 14:18:22.034671]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4701223112" }
+4701223112
+[2017-08-11 14:18:22.209236]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "716479968" }
+716479968
+[2017-08-11 14:18:22.269275]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "754700753994932224" }
+754700753994932224
+[2017-08-11 14:18:49.702114]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "821214662314209280" }
+821214662314209280
+[2017-08-11 14:18:49.985956]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "737699544243261440" }
+737699544243261440
+[2017-08-11 14:18:50.622491]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1104755540" }
+1104755540
+[2017-08-11 14:18:51.649094]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "777321083124879360" }
+777321083124879360
+[2017-08-11 14:18:52.205898]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1956898651" }
+1956898651
+[2017-08-11 14:18:52.260706]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "730442036269223936" }
+730442036269223936
+[2017-08-11 14:18:52.378638]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "765400193818763264" }
+765400193818763264
+[2017-08-11 14:18:52.964225]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "837674872826392576" }
+837674872826392576
+[2017-08-11 14:19:21.033583]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "832948034564661248" }
+832948034564661248
+[2017-08-11 14:19:21.466801]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1425507000" }
+1425507000
+[2017-08-11 14:19:22.158787]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3268020648" }
+3268020648
+[2017-08-11 14:19:22.448794]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3221876142" }
+3221876142
+[2017-08-11 14:19:22.519707]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2827632678" }
+2827632678
+[2017-08-11 14:19:22.776285]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "833733641524084736" }
+833733641524084736
+[2017-08-11 14:19:22.910689]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "812722405768654849" }
+812722405768654849
+[2017-08-11 14:19:23.414176]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "825645459213524992" }
+825645459213524992
+[2017-08-11 14:19:23.466182]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "828533831611322368" }
+828533831611322368
+[2017-08-11 14:19:23.638964]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3037869943" }
+3037869943
+[2017-08-11 14:19:23.697476]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "717317771596472320" }
+717317771596472320
+[2017-08-11 14:19:50.295668]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1612281002" }
+1612281002
+[2017-08-11 14:19:50.576947]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4133980339" }
+4133980339
+[2017-08-11 14:19:50.995985]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "760028876126978048" }
+760028876126978048
+[2017-08-11 14:19:51.093734]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3069924799" }
+3069924799
+[2017-08-11 14:19:51.131504]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "854170817688551424" }
+854170817688551424
+[2017-08-11 14:19:51.219870]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4339234994" }
+4339234994
+[2017-08-11 14:19:51.732724]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "835188497698992129" }
+835188497698992129
+[2017-08-11 14:19:52.332612]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "137580059" }
+137580059
+[2017-08-11 14:19:52.772952]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1533132696" }
+1533132696
+[2017-08-11 14:19:55.990982]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3094670767" }
+3094670767
+[2017-08-11 14:20:20.746178]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "15210670" }
+15210670
+[2017-08-11 14:20:22.864925]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "767058107142897664" }
+767058107142897664
+[2017-08-11 14:20:23.126638]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3151083812" }
+3151083812
+[2017-08-11 14:20:23.198085]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2963884203" }
+2963884203
+[2017-08-11 14:20:23.358843]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "260505820" }
+260505820
+[2017-08-11 14:20:23.624924]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2998331925" }
+2998331925
+[2017-08-11 14:20:32.812255]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "110557285" }
+110557285
+[2017-08-11 14:20:33.650194]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "20076584" }
+20076584
+[2017-08-11 14:20:33.673284]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "525425046" }
+525425046
+[2017-08-11 14:20:33.741290]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "930003926" }
+930003926
+[2017-08-11 14:20:41.876440]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "30213898" }
+30213898
+[2017-08-11 14:21:05.010283]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "144400550" }
+144400550
+[2017-08-11 14:21:07.359576]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "232038528" }
+232038528
+[2017-08-11 14:21:09.332046]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1035095269" }
+1035095269
+[2017-08-11 14:21:09.526358]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "95869405" }
+95869405
+[2017-08-11 14:21:09.676451]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3648729319" }
+3648729319
+[2017-08-11 14:21:09.705011]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2313218292" }
+2313218292
+[2017-08-11 14:21:10.588807]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "780452817001734145" }
+780452817001734145
+[2017-08-11 14:21:35.183061]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2554461192" }
+2554461192
+[2017-08-11 14:21:35.240032]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3192922310" }
+3192922310
+[2017-08-11 14:21:35.260621]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3052123316" }
+3052123316
+[2017-08-11 14:21:35.280523]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "59830258" }
+59830258
+[2017-08-11 14:21:36.703728]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "236830995" }
+236830995
+[2017-08-11 14:21:36.755946]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "502882189" }
+502882189
+[2017-08-11 14:21:36.873417]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "717686709983424513" }
+717686709983424513
+[2017-08-11 14:21:37.107179]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "564000560" }
+564000560
+[2017-08-11 14:21:37.215420]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2963884203" }
+2963884203
+[2017-08-11 14:21:37.342062]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2334792823" }
+2334792823
+[2017-08-11 14:21:37.362026]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2362943016" }
+2362943016
+[2017-08-11 14:21:37.821167]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "177369877" }
+177369877
+[2017-08-11 14:21:37.910090]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "316539582" }
+316539582
+[2017-08-11 14:21:37.930159]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2250377935" }
+2250377935
+[2017-08-11 14:21:38.181592]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "64498695" }
+64498695
+[2017-08-11 14:21:38.363422]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "92733057" }
+92733057
+[2017-08-11 14:21:38.406702]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2801729758" }
+2801729758
+[2017-08-11 14:21:38.481182]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1034111916" }
+1034111916
+[2017-08-11 14:22:06.003287]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "95865072" }
+95865072
+[2017-08-11 14:22:06.853198]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "216776631" }
+216776631
+[2017-08-11 14:22:06.930192]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "78941611" }
+78941611
+[2017-08-11 14:22:07.095789]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2915766225" }
+2915766225
+[2017-08-11 14:22:07.150568]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1668063794" }
+1668063794
+[2017-08-11 14:22:07.267693]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "53290463" }
+53290463
+[2017-08-11 14:22:07.288100]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "147977998" }
+147977998
+[2017-08-11 14:22:07.410076]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "791517902" }
+791517902
+[2017-08-11 14:22:07.462272]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "18681139" }
+18681139
+[2017-08-11 14:22:07.482650]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "113419517" }
+113419517
+[2017-08-11 14:22:07.562477]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "132385468" }
+132385468
+[2017-08-11 14:22:08.003985]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "18354016" }
+18354016
+[2017-08-11 14:22:08.229544]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "102382667" }
+102382667
+[2017-08-11 14:22:08.852262]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "89965406" }
+89965406
+[2017-08-11 14:22:37.298744]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "171682730" }
+171682730
+[2017-08-11 14:22:37.488562]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "16489912" }
+16489912
+[2017-08-11 14:22:37.545136]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "145125358" }
+145125358
+[2017-08-11 14:22:37.836347]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "63073975" }
+63073975
+[2017-08-11 14:22:37.906199]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "108252113" }
+108252113
+[2017-08-11 14:22:37.927957]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "14120922" }
+14120922
+[2017-08-11 14:22:38.244007]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "468479147" }
+468479147
+[2017-08-11 14:22:38.281456]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "111944435" }
+111944435
+[2017-08-11 14:23:05.468589]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "386110592" }
+386110592
+[2017-08-11 14:23:06.414224]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1538176015" }
+1538176015
+[2017-08-11 14:23:07.358541]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "18071358" }
+18071358
+[2017-08-11 14:23:07.380100]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2785480981" }
+2785480981
+[2017-08-11 14:23:07.415945]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "4667591756" }
+4667591756
+[2017-08-11 14:23:07.465752]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3326764093" }
+3326764093
+[2017-08-11 14:23:07.721667]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "10671602" }
+10671602
+[2017-08-11 14:23:07.875440]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1492538024" }
+1492538024
+[2017-08-11 14:23:08.062123]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "619278612" }
+619278612
+[2017-08-11 14:23:08.167898]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3202028009" }
+3202028009
+[2017-08-11 14:23:08.195539]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "200163448" }
+200163448
+[2017-08-11 14:23:08.704404]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "92162698" }
+92162698
+[2017-08-11 14:23:53.352356]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "323773719" }
+323773719
+[2017-08-11 14:24:52.707726]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "35624175" }
+35624175
+[2017-08-11 14:26:06.867322]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "123791748" }
+123791748
+[2017-08-11 14:28:27.247976]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 14:29:33.155688]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "35664955" }
+35664955
+[2017-08-11 14:30:23.075654]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "791737590" }
+791737590
+[2017-08-11 14:32:01.890331]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "780476339916713985" }
+780476339916713985
+[2017-08-11 14:36:07.551773]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 14:36:08.061004]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "149585330" }
+149585330
+[2017-08-11 14:37:13.878076]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "36039738" }
+36039738
+[2017-08-11 14:38:37.719649]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "5988062" }
+5988062
+[2017-08-11 14:38:37.884917]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "108698830" }
+108698830
+[2017-08-11 14:38:37.979791]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "3108351" }
+3108351
+[2017-08-11 14:38:38.129268]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "113444722" }
+113444722
+[2017-08-11 14:38:38.156609]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "75552428" }
+75552428
+[2017-08-11 14:38:40.018647]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "95871559" }
+95871559
+[2017-08-11 14:39:07.263863]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "102382667" }
+102382667
+[2017-08-11 14:39:07.349333]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "881811006774808576" }
+881811006774808576
+[2017-08-11 14:39:09.295194]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "108252113" }
+108252113
+[2017-08-11 14:39:54.251373]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "93838392" }
+93838392
+[2017-08-11 14:40:10.349204]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2531622068" }
+2531622068
+[2017-08-11 14:40:10.898591]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "219612920" }
+219612920
+[2017-08-11 14:40:38.343379]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2963884203" }
+2963884203
+[2017-08-11 14:40:38.499690]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "245769423" }
+245769423
+[2017-08-11 14:40:38.755717]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "2796269894" }
+2796269894
+[2017-08-11 14:40:39.231793]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "783214" }
+783214
+[2017-08-11 14:40:39.921276]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "882279449504473088" }
+882279449504473088
+[2017-08-11 14:41:08.478991]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "804973640026615808" }
+804973640026615808
+[2017-08-11 14:41:15.258380]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users2.$_id_  dup key: { : "42248758" }
+42248758
+[2017-08-11 14:42:07.647843]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "101311381" }
+101311381
+[2017-08-11 14:42:07.735877]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "39240673" }
+39240673
+[2017-08-11 14:42:09.636333]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "877834640504922112" }
+877834640504922112
+[2017-08-11 14:42:10.538259]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "834656550069346304" }
+834656550069346304
+[2017-08-11 14:42:40.157419]
+insertDocument :: caused by :: 11000 E11000 duplicate key error index: tweet.users.$_id_  dup key: { : "1664876220" }
+1664876220

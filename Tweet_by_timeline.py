@@ -35,6 +35,7 @@ db=connect_db.db_server(db_username,db_login)
 
 N=0
 
+
 ####### Recreate the function when using the couchDB
 def FileSave(content):
     if content['geo'] or content['coordinates']:

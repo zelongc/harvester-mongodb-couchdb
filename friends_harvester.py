@@ -5,7 +5,7 @@ import argparse
 import time
 
 from TwitterAPI.TwitterError import TwitterConnectionError, TwitterRequestError
-
+from TwitterAPI import TwitterRestPager
 import connect_mongo
 from support import *
 
@@ -46,15 +46,17 @@ def harvest_friends():
     cursor = -1
     # while 1:
     try:
-        r = api.request('friends/list', {"user_id": user_id, 'count': 200, 'cursor': cursor})
-        for each_user_info in r.get_iterator():
+        # r = api.request('friends/list', {"user_id": user_id, 'count': 200, 'cursor': cursor})
+        r2 = TwitterRestPager(api,'friends/list', {"user_id": user_id, 'count': 200, 'cursor': cursor})
+        for each_user_info in r2.get_iterator(30):
             FileSave(each_user_info)
+
     except TwitterRequestError as e:
         print(e.status_code)
         if e.status_code < 500:
             if e.status_code == 429 or e.status_code == 420:
                 print('I am sleeping')
-                time.sleep(45)
+                time.sleep(450)
             elif e.status_code == 401:
                 pass
             else:

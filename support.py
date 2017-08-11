@@ -16,13 +16,13 @@ city_box={
 }
 
 city_box_central={"sydney":"-33.8563,151.0210",
-                  "brisbane":"152.9435,-27.4720",
-                  "melbourne":"145.1028, -37.8658",
-                  "hobart":"147.3121,-42.8299",
-                  "perth":"116.0075,-31.9827",
-                  "adeliade":"138.5982,-34.9181",
-                  "camberra":"149.1521, -35.2847",
-                  "darwin":"130.9042, -12.4082"
+                  "brisbane":"-27.4720,152.9435",
+                  "melbourne":"-37.8658,145.1028",
+                  "hobart":"-42.8299,147.3121",
+                  "perth":",-31.9827,116.0075",
+                  "adeliade":"-34.9181,138.5982,",
+                  "camberra":"-35.2847,149.1521",
+                  "darwin":"-12.4082130.9042 "
                   }
 
 Auth=[
@@ -94,4 +94,4 @@ db_login="zelongc"
 
 
 ##### Pay attention to the delimiter : ‘the twitter’ is the AND twitter, and ‘the,twitter’ is the OR twitter
-search_words='the,i,to,a,and,is,in,it,you,of,!,?,.,for,on,my,\'s,that,at'
+search_words='the,i,to,a,and,is,in,it,you,of,!,?,.,for,on,my,that,at'
