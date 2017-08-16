@@ -4,7 +4,7 @@ import datetime
 class db_client(object):
 
     def __init__(self):
-        self.client = MongoClient('mongodb://52.63.216.46:27017/')
+        self.client = MongoClient('mongodb://115.146.92.106:27017/')
         self.db_tweet=self.client['tweet']
         self.collection_users=self.db_tweet['users']
         self.collection_tweets=self.db_tweet['tweets']

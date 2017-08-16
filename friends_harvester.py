@@ -37,7 +37,6 @@ def FileSave(user_info):
 def harvest_friends():
     # get a user Id from database
     user_id = db_client.find_user_for_friends()
-
     api = TwitterAPI(consumer_key=Auth[token_number]['consumer_key'],
                      consumer_secret=Auth[token_number]['consumer_secret'],
                      access_token_key=Auth[token_number]['access_token_key'],
@@ -46,9 +45,10 @@ def harvest_friends():
     cursor = -1
     # while 1:
     try:
+        count=0
         # r = api.request('friends/list', {"user_id": user_id, 'count': 200, 'cursor': cursor})
         r2 = TwitterRestPager(api,'friends/list', {"user_id": user_id, 'count': 200, 'cursor': cursor})
-        for each_user_info in r2.get_iterator(30):
+        for each_user_info in r2.get_iterator(40):
             FileSave(each_user_info)
 
     except TwitterRequestError as e:

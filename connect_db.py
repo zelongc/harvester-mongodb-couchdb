@@ -10,7 +10,7 @@ import datetime
 class db_server(object):
 
     def __init__(self,username,login):
-        self.secure_server = Server('http://%s:%s@52.63.216.46:5984' % (username, login))
+        self.secure_server = Server('http://%s:%s@115.146.92.106:5984' % (username, login))
         self.db = self.secure_server["tweet"]
     def insert(self,data):
         try:

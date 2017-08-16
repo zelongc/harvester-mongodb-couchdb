@@ -1,0 +1,6 @@
+# query 
+db.tweets.find({"coordinates":{"$near":{$geometry:{type:"Point",coordinates:[150.6517,-33.8479]},$maxDistance:100000}}})
+
+db.tweets.find({"coordinates":{"$near":{$geometry:{type:"Point",coordinates:[144.96855,-37.80791]},$maxDistance:100000}}})
+
+db.tweets.find({"coordinates":{"$near":{$geometry:{type:"Point",coordinates:[-74.25,40.697]},$maxDistance:100000}}})

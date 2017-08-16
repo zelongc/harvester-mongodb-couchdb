@@ -3,3 +3,4 @@ _*
 .idea/
 .DS_Store
 *.out
+mongodb_log
