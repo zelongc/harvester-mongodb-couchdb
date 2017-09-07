@@ -55,7 +55,7 @@ def search_user():
                              access_token_secret=Auth[token_number]['access_token_secret'],
                              auth_type='oAuth2')
 
-            r = api.request('statuses/user_timeline', {"user_id": user_id, 'count': 200, 'exclude_replies': 'true'})
+            # r = api.request('statuses/user_timeline', {"user_id": user_id, 'count': 200, 'exclude_replies': 'true'})
             # Use the
             r = TwitterRestPager(api, 'statuses/user_timeline', {"user_id": user_id, 'count': 200, 'exclude_replies': 'true'})
             for each in r.get_iterator():

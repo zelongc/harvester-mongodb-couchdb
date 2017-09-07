@@ -47,7 +47,7 @@ def harvest_friends():
     try:
         count=0
         # r = api.request('friends/list', {"user_id": user_id, 'count': 200, 'cursor': cursor})
-        r2 = TwitterRestPager(api,'friends/list', {"user_id": user_id, 'count': 200, 'cursor': cursor})
+        r2 = TwitterRestPager(api,'friends/list', {"user_id": user_id, 'count': 200 })
         for each_user_info in r2.get_iterator(40):
             FileSave(each_user_info)
 
