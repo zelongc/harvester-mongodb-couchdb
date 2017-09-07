@@ -4,7 +4,7 @@ A harvester used to harvest tweet with geo-location.
 
 The harvester has two parts. friend_harvester and tweet_harvester. a database is used to store search records to avoid tweet duplication.
 
-The friend_harvester only collect friends informaiton starting from a seed user.(AFLNews for exmaple). It sotres new user ID in the database and mark 'friends_harvested' to true after collecting one's friends and add time stamp in 'last_time_friends_harvested'
+The friend_harvester only collect friends informaiton starting from a seed user.(AFLNews for exmaple). It sotres new user ID in the database and mark 'friends_harvested' to true after collecting one's friends( also add time stamp in 'last_time_friends_harvested')
 
 The tweet_harvester find a un-visted user in database and collection this user's timeline. After collecting this user's tweet, the tweet_harvester mark the 'tweet_harvested' to true and add time stamp in 'last_time_tweet_harvested'
 
